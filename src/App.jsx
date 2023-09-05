@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route index element={<Blog />} />
           <Route path='/login' element={<Login />} />
-          <Route path="*" element={<NotFound />} />
+          <Route path="*" element={<Blog />} />
         </Routes>
       </BrowserRouter>
     </main>
