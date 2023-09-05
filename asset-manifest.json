@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wcs240-blog-post/static/css/main.31d6cfe0.css",
-    "main.js": "/wcs240-blog-post/static/js/main.3eb1a34a.js",
+    "main.js": "/wcs240-blog-post/static/js/main.6c6abfdc.js",
     "static/media/chess-club-poster.jpg": "/wcs240-blog-post/static/media/chess-club-poster.f6b414d041ffa59ee366.jpg",
     "index.html": "/wcs240-blog-post/index.html",
-    "main.3eb1a34a.js.map": "/wcs240-blog-post/static/js/main.3eb1a34a.js.map"
+    "main.6c6abfdc.js.map": "/wcs240-blog-post/static/js/main.6c6abfdc.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.3eb1a34a.js"
+    "static/js/main.6c6abfdc.js"
   ]
 }
